@@ -1,0 +1,31 @@
+{
+  "name": "studymate-student",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mlc-ai/web-llm": "^0.2.34",
+    "idb-keyval": "^6.2.1",
+    "pdfjs-dist": "^4.7.76",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tesseract.js": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.2",
+    "@vitejs/plugin-react": "^4.3.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
