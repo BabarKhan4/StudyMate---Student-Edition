@@ -1,4 +1,4 @@
-# StudyMate — Student Edition (Vercel-ready)
+# StudyMate — Student Edition
 
 Private, in-browser study tools — **no server, no API keys**. Everything runs on the user's device with WebGPU (WebLLM).
 
